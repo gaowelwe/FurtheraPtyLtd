@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MaisonUmberDb-Web.config Connection String" description="MaisonUmberDb Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=PuleDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\gaowe\\source\\repos\\Web\ Site\\WebForm1\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MaisonUmberDb']/@connectionString" />
+  </parameter>
+</parameters>
